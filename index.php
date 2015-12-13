@@ -15,6 +15,10 @@
 		<h1>FirmTool</h1>
 	</div>
 
+	<div class="exp">
+		 FirmTool is software that allows you to download your IPSW !
+	</div>
+
 	<div class="video">
 		<iframe width="600" height="338" src="https://www.youtube.com/embed/dZJfrvx9Lwc" frameborder="0" allowfullscreen></iframe>
 	</div>

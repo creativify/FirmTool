@@ -11,12 +11,19 @@
 	text-align: center;
 }
 
+.exp{
+	width: 100%;
+	padding: 20px;
+
+	text-align: center;
+	line-height: 50px;
+}
+
 .video{
 	width: 600px;
 	height: 338px;
 
 	margin: 0 auto;
-	margin-top: 50px;
 }
 
 .dl{
