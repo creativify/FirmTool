@@ -62,6 +62,7 @@
 }
 
 .log h3{
+	padding-bottom: 15px;
 	margin-top: 15px;
 	font-size: 22px;
 	font-weight: lighter;
@@ -72,4 +73,35 @@
 	font-size: 18px;
 	font-weight: lighter;
 	margin-left: 25px;
+}
+
+.iosbeta{
+	padding: 20px;
+
+	width: 100%;
+	border-top: solid 1px #000;
+}
+
+.iosbeta h2{
+	font-size: 27px;
+	font-weight: lighter;
+	text-align: center;
+}
+
+.iosbeta h3{
+	padding-bottom: 15px;
+	margin-top: 15px;
+	font-size: 22px;
+	font-weight: lighter;
+	color: #27ae60;
+}
+
+.iosbeta p{
+	font-size: 18px;
+	font-weight: lighter;
+	margin-left: 25px;
+}
+
+.iosbeta a{
+	color: #e74c3c;
 }
